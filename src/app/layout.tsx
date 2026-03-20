@@ -8,13 +8,13 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Customer Satisfaction SaaS - Mercado Libre Style",
+  title: "Customer Satisfaction Analyzer",
   description:
-    "Customer satisfaction analysis with Mercado Libre Argentina design",
+    "Advanced customer satisfaction analysis with AI-powered sentiment insights and real-time analytics dashboard",
   viewport: "width=device-width, initial-scale=1",
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#ffe600" },
-    { media: "(prefers-color-scheme: dark)", color: "#ffe600" },
+    { media: "(prefers-color-scheme: light)", color: "#3b82f6" },
+    { media: "(prefers-color-scheme: dark)", color: "#3b82f6" },
   ],
 };
 
